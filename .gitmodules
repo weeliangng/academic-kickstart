@@ -5,3 +5,7 @@
 	path = public
 	url = https://github.com/weeliangng/weeliangng.github.io.git
 	branch = master
+[submodule "weeliangng.github.io"]
+	path = weeliangng.github.io
+	url = https://github.com/weeliangng/weeliangng.github.io.git
+	branch = master
