@@ -10,37 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Business Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: EPAM Systems
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Analytics
+- Business Analysis
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master of Science in Analyics
+    institution: Georgia Institute of Technology
+    year: On going
+  - course: Bachelor of Engineering (Chemical Engineering) 
+    institution: National University of Singapore
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:weeliangng@hotmail.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
