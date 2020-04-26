@@ -21,7 +21,7 @@ organizations:
 bio: 
 
 interests:
-- Analytics
+- Data Analytics
 - Business Analysis
 
 education:
