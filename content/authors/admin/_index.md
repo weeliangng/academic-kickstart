@@ -23,14 +23,14 @@ bio:
 interests:
 - Data Analytics
 - Business Analysis
-- Running
 - Barbell training
+- Running
 
 education:
   courses:
   - course: Master of Science in Analyics
     institution: Georgia Institute of Technology
-    year: On going
+    year: Ongoing
   - course: Bachelor of Engineering (Chemical Engineering) 
     institution: National University of Singapore
     year: 2016
@@ -62,6 +62,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi there, welcome to my site.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+The goal of this blog is for me to document and reflect my learnings during my master program as well as to feature any projects I am working on.
+
