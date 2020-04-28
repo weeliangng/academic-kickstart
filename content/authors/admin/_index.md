@@ -46,6 +46,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/weeliangng
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/wee-liang-ng/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,5 +67,5 @@ user_groups:
 
 Hi there, welcome to my site.
 
-The goal of this blog is for me to document and reflect my learnings during my master program as well as to feature any projects I am working on.
+The purpose of this blog is for me to document and reflect my learnings during my master program as well as to feature any projects I am working on. I figure out that I also need an outlet to improve my writing skills.
 
